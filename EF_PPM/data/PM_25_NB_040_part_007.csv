@@ -1,0 +1,346 @@
+Département;Code Direction;Code Commune;Nom de la commune;Préfixe;Section;N° plan;N° voirie;Indice de répétition;Code voie MAJIC;Code voie Rivoli;Nature voie;Nom voie;Contenance;SUF;Nature culture;Contenance.1;Code droit - par;N° Majic - par;N° SIREN - par;Groupe personne - par;Forme juridique - par;Forme juridique abrégée - par;Dénomination - par
+04;0;245;VOLX;; C;0722;;;00032;B032;;LA POINTE;3850;;BT - Taillis simples;3850;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; C;0961;;;00031;B031;;LE PLAN;3855;;T - Terre;3855;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;0961;;;00031;B031;;LE PLAN;3855;;T - Terre;3855;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;2457;;;00018;B018;;LE GRAVAS;3912;;BT - Taillis simples;3912;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2457;;;00018;B018;;LE GRAVAS;3912;;BT - Taillis simples;3912;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;2025;;;00038;B038;;SAINT CLEMENT;3940;;L - Landes;3940;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2025;;;00038;B038;;SAINT CLEMENT;3940;;L - Landes;3940;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;;AD;0005;;;00016;B016;;LE GRAND PRE;3958;;T - Terre;3958;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AB;0097;;;00035;B035;;RATAVOUS;3975;;VE - Vergers;3975;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0134;;;00034;B034;;LES PRES;3990;;T - Terre;3990;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;;AN;0237;;;00146;B060;;LA BASSE FONTAINE;3998;;S - Sols;3998;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0696;;;00046;B046;;VAUGRANA;4000;;L - Landes;4000;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0860;;;00002;B002;;BAJOURIN;4010;;T - Terre;4010;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;1784;;;00016;B016;;LE GRAND PRE;4080;;L - Landes;4080;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;1784;;;00016;B016;;LE GRAND PRE;4080;;L - Landes;4080;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;0857;;;00002;B002;;BAJOURIN;4095;;VE - Vergers;4095;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0387;;;00037;B037;;LA ROUVIERE;4125;;L - Landes;4125;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0387;;;00037;B037;;LA ROUVIERE;4125;;L - Landes;4125;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;;AA;0127;;;00147;B061;;LA CAPELANE;4150;;L - Landes;4150;P - Propriétaire;PBB9TK;392727467;0 - Personnes morales non remarquables ;6540;SCI;MARJEBES
+04;0;245;VOLX;;AL;0024;;;00013;B013;;FONTENOUILLES;4157;;VE - Vergers;4157;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0943;;;00008;B008;;LA CROUSTASSE;4170;;T - Terre;4170;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;0943;;;00008;B008;;LA CROUSTASSE;4170;;T - Terre;4170;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;;AD;0258;;;00016;B016;;LE GRAND PRE;4189;;L - Landes;4189;P - Propriétaire;PBCCS8;220400014;3 - Département ;7220;DEPT;DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+04;0;245;VOLX;;AL;0034;;;00013;B013;;FONTENOUILLES;4226;;E - Eaux;4226;P - Propriétaire;PBC44L;290402270;0 - Personnes morales non remarquables ;7321;ASS;ASA CANAL DE MANOSQUE
+04;0;245;VOLX;; B;0025;;;00045;B045;;LA TUILIERE;4250;;BT - Taillis simples;4250;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AN;0001;;;00146;B060;;LA BASSE FONTAINE;4295;;E - Eaux;4295;P - Propriétaire;PBC44L;290402270;0 - Personnes morales non remarquables ;7321;ASS;ASA CANAL DE MANOSQUE
+04;0;245;VOLX;; C;0120;;;00034;B034;;LES PRES;4310;;T - Terre;4310;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; B;2610;;;00041;B041;;SAINT ROCH;4375;;T - Terre;4375;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; B;0447;;;00028;B028;;PIETRAMAL;4445;;VE - Vergers;4445;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;1285;;;00033;B033;;PONT D AI;4450;;T - Terre;4450;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;; B;2618;;;00041;B041;;SAINT ROCH;4455;;T - Terre;4455;P - Propriétaire;PBB9MC;382078616;0 - Personnes morales non remarquables ;6597;SCEA;SAINT ROCH
+04;0;245;VOLX;; C;0870;;;00002;B002;;BAJOURIN;4525;;T - Terre;4525;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0084;;;00040;B040;;SAINT MARTIN;4530;;L - Landes;4530;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0043;;;00016;B016;;LE GRAND PRE;4535;;VE - Vergers;4535;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; B;2620;;;00041;B041;;SAINT ROCH;4576;;T - Terre;4576;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0639;;;00033;B033;;PONT D AI;4600;;VI - Vignes;4600;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;;AM;0116;;;00042;B042;;SAINTE ANNE;4606;;L - Landes;4606;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0219;;;00034;B034;;LES PRES;4635;;T - Terre;4635;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0005;;;00036;B036;;LA ROULIERE;4750;;BT - Taillis simples;4750;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; B;1968;;;00028;B028;;PIETRAMAL;4755;;BT - Taillis simples;4755;P - Propriétaire;PBBXC9;775692072;0 - Personnes morales non remarquables ;9220;ASS;GROUPEMENT CAMPEURS UNIVERSITAIRES
+04;0;245;VOLX;; C;0712;;;00029;B029;;LA PIOLANCHE;4820;;BT - Taillis simples;4820;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; C;0042;;;00016;B016;;LE GRAND PRE;4855;;T - Terre;4855;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0127;;;00034;B034;;LES PRES;4860;;T - Terre;4860;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;; C;0630;;;00033;B033;;PONT D AI;4870;;CH - Chemins de fer, Canaux de Navigation;4870;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;0630;;;00033;B033;;PONT D AI;4870;;CH - Chemins de fer, Canaux de Navigation;4870;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;0263;;;00034;B034;;LES PRES;4910;;T - Terre;4910;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;;AI;0027;;;00006;B006;;LA CARRETIERE;4994;;S - Sols;4994;P - Propriétaire;PBB64M;447892563;0 - Personnes morales non remarquables ;6540;SCI;DU MONT
+04;0;245;VOLX;; C;0873;;;00002;B002;;BAJOURIN;5010;;T - Terre;5010;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0361;;;00005;B005;;BELLE VUE;5040;;L - Landes;5040;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;0100;;;00034;B034;;LES PRES;5040;;E - Eaux;5040;P - Propriétaire;PBBXT6;705650109;0 - Personnes morales non remarquables ;5599;SA;SOCIETE CANAL DE LA BRILLANNE
+04;0;245;VOLX;; A;0928;;;00009;B009;;LES ESTRECHS;5090;;S - Sols;5090;P - Propriétaire;PBCCS8;220400014;3 - Département ;7220;DEPT;DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+04;0;245;VOLX;; C;2806;;;00031;B031;;LE PLAN;5113;;S - Sols;5113;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2806;;;00031;B031;;LE PLAN;5113;;S - Sols;5113;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; B;2608;;;00041;B041;;SAINT ROCH;5125;;VE - Vergers;5125;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0738;;;00032;B032;;LA POINTE;5130;;BT - Taillis simples;5130;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; C;0938;;;00008;B008;;LA CROUSTASSE;5150;;T - Terre;5150;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0711;;;00029;B029;;LA PIOLANCHE;5150;;T - Terre;5150;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; C;0938;;;00008;B008;;LA CROUSTASSE;5150;;T - Terre;5150;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; C;0739;;;00032;B032;;LA POINTE;5160;;T - Terre;5160;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; A;0109;;;00043;B043;;SARZEN;5175;;L - Landes;5175;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0694;;;00012;B012;;FONTAMAURRI;5180;;L - Landes;5180;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0792;;;00010;B010;;LES EYRAUDS;5210;;E - Eaux;5210;P - Propriétaire;PBBXT6;705650109;0 - Personnes morales non remarquables ;5599;SA;SOCIETE CANAL DE LA BRILLANNE
+04;0;245;VOLX;; C;0937;;;00008;B008;;LA CROUSTASSE;5235;;T - Terre;5235;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0937;;;00008;B008;;LA CROUSTASSE;5235;;T - Terre;5235;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; C;1669;;;00034;B034;;LES PRES;5250;;E - Eaux;5250;P - Propriétaire;PBBXT6;705650109;0 - Personnes morales non remarquables ;5599;SA;SOCIETE CANAL DE LA BRILLANNE
+04;0;245;VOLX;; C;0942;;;00008;B008;;LA CROUSTASSE;5280;;T - Terre;5280;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0942;;;00008;B008;;LA CROUSTASSE;5280;;T - Terre;5280;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; A;0028;;;00036;B036;;LA ROULIERE;5300;;L - Landes;5300;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0867;;;00002;B002;;BAJOURIN;5320;;T - Terre;5320;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0666;;;00040;B040;;SAINT MARTIN;5437;;BT - Taillis simples;5437;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; A;0690;;;00043;B043;;SARZEN;5500;;BT - Taillis simples;5500;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0941;;;00008;B008;;LA CROUSTASSE;5510;;T - Terre;5510;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0941;;;00008;B008;;LA CROUSTASSE;5510;;T - Terre;5510;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;;AE;0006;;;00011;B011;;FONT DE LAGIER;5622;;L - Landes;5622;P - Propriétaire;PBCZ9Q;280400169;9 - Établissements publics ou organismes associés;7372;SDIS;SCE DEPARTEMENTAL INCENDIE ET SECOURS
+04;0;245;VOLX;; C;1302;;;00033;B033;;PONT D AI;5660;;T - Terre;5660;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;; A;0012;;;00036;B036;;LA ROULIERE;5700;;BF - Futaies Feuillues;5700;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;2451;;;00018;B018;;LE GRAVAS;5720;;BT - Taillis simples;5720;P - Propriétaire;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; A;0031;;;00036;B036;;LA ROULIERE;5725;;BT - Taillis simples;5725;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0800;;;00003;B003;;LA BASTIDE NEUVE;5740;;T - Terre;5740;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;;AB;0106;;;00035;B035;;RATAVOUS;5779;;VE - Vergers;5779;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0737;;;00032;B032;;LA POINTE;5780;;AG - Terrains d’agrément;5780;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;;AI;0048;;;00044;B044;;TABAZA;5791;;L - Landes;5791;P - Propriétaire;PBCZ33;378568638;0 - Personnes morales non remarquables ;5710;SAS;IMMALDI ET COMPAGNIE
+04;0;245;VOLX;;AI;0140;;;00044;B044;;TABAZA;5838;;T - Terre;5838;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0182;;;00034;B034;;LES PRES;5840;;T - Terre;5840;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0270;;;00011;B011;;FONT DE LAGIER;5860;;T - Terre;5860;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;;AI;0126;;;00044;B044;;TABAZA;5870;;T - Terre;5870;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0216;;;00034;B034;;LES PRES;5910;;T - Terre;5910;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;; C;0250;;;00034;B034;;LES PRES;6070;;T - Terre;6070;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0894;;;00018;B018;;LE GRAVAS;6225;;T - Terre;6225;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0376;;;00005;B005;;BELLE VUE;6230;;L - Landes;6230;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; C;0891;;;00018;B018;;LE GRAVAS;6230;;T - Terre;6230;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; A;0376;;;00005;B005;;BELLE VUE;6230;;L - Landes;6230;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0347;;;00005;B005;;BELLE VUE;6240;;L - Landes;6240;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0002;;;00036;B036;;LA ROULIERE;6250;;BF - Futaies Feuillues;6250;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;0278;;;00011;B011;;FONT DE LAGIER;6290;;VE - Vergers;6290;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;2787;;;00003;B003;;LA BASTIDE NEUVE;6312;;S - Sols;6312;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; C;0875;;;00002;B002;;BAJOURIN;6345;;T - Terre;6345;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0895;;;00018;B018;;LE GRAVAS;6420;;T - Terre;6420;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; C;0208;;;00034;B034;;LES PRES;6490;;T - Terre;6490;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;;AH;0232;;;00014;B014;;LA GARE;6526;;L - Landes;6526;P - Propriétaire;PBB82V;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0272;;;00011;B011;;FONT DE LAGIER;6530;;T - Terre;6530;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0929;;;00008;B008;;LA CROUSTASSE;6560;;T - Terre;6560;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;0929;;;00008;B008;;LA CROUSTASSE;6560;;T - Terre;6560;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0026;;;00036;B036;;LA ROULIERE;6600;;BF - Futaies Feuillues;6600;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;;AI;0065;;;00006;B006;;LA CARRETIERE;6718;;S - Sols;6718;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AI;0119;;;00044;B044;;TABAZA;6724;;CH - Chemins de fer, Canaux de Navigation;6724;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;;AI;0119;;;00044;B044;;TABAZA;6724;;CH - Chemins de fer, Canaux de Navigation;6724;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; B;0386;;;00028;B028;;PIETRAMAL;6860;;L - Landes;6860;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0156;;;00009;B009;;LES ESTRECHS;6950;;VE - Vergers;6950;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0907;;;00008;B008;;LA CROUSTASSE;6960;;T - Terre;6960;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0907;;;00008;B008;;LA CROUSTASSE;6960;;T - Terre;6960;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; B;0349;;;00028;B028;;PIETRAMAL;6990;;L - Landes;6990;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0757;;;00017;B017;;LA GRANDE PIECE;7130;;T - Terre;7130;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0757;;;00017;B017;;LA GRANDE PIECE;7130;;T - Terre;7130;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; B;0016;;;00024;B024;;MONTAIGU;7190;;BT - Taillis simples;7190;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0016;;;00024;B024;;MONTAIGU;7190;;BT - Taillis simples;7190;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;;AK;0366;;;00039;B039;;SAINT JEAN;7278;;S - Sols;7278;G - Gérant, mandataire, gestionnaire;P9MBK2;444253355;0 - Personnes morales non remarquables ;5710;SAS;INTER COOP
+04;0;245;VOLX;;AK;0366;;;00039;B039;;SAINT JEAN;7278;;S - Sols;7278;P - Propriétaire;P996GX;333384311;0 - Personnes morales non remarquables ;5599;SA;BPCE LEASE IMMO
+04;0;245;VOLX;;AK;0366;;;00039;B039;;SAINT JEAN;7278;;S - Sols;7278;P - Propriétaire;P996TG;444253355;0 - Personnes morales non remarquables ;5710;SAS;INTER COOP
+04;0;245;VOLX;; C;1718;;;00017;B017;;LA GRANDE PIECE;7285;;T - Terre;7285;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; C;2153;;;00004;B004;;LES BEAUMETTES;7343;;E - Eaux;7343;P - Propriétaire;PBBXT6;705650109;0 - Personnes morales non remarquables ;5599;SA;SOCIETE CANAL DE LA BRILLANNE
+04;0;245;VOLX;; C;0936;;;00008;B008;;LA CROUSTASSE;7365;;T - Terre;7365;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0936;;;00008;B008;;LA CROUSTASSE;7365;;T - Terre;7365;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; A;0352;;;00005;B005;;BELLE VUE;7450;;BF - Futaies Feuillues;7450;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;;AM;0323;;;00042;B042;;SAINTE ANNE;7465;;E - Eaux;7465;P - Propriétaire;PBC44L;290402270;0 - Personnes morales non remarquables ;7321;ASS;ASA CANAL DE MANOSQUE
+04;0;245;VOLX;;AC;0053;;;00025;B025;;LE MOULIN;7512;;T - Terre;7512;P - Propriétaire;PBB88H;484383856;0 - Personnes morales non remarquables ;6540;SCI;LE PETIT MOULIN
+04;0;245;VOLX;;AA;0263;;;00147;B061;;LA CAPELANE;7513;;L - Landes;7513;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0004;;;00024;B024;;MONTAIGU;7525;;BT - Taillis simples;7525;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0004;;;00024;B024;;MONTAIGU;7525;;BT - Taillis simples;7525;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; C;1534;;;00016;B016;;LE GRAND PRE;7570;;T - Terre;7570;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0108;;;00034;B034;;LES PRES;7740;;CH - Chemins de fer, Canaux de Navigation;7740;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;0108;;;00034;B034;;LES PRES;7740;;CH - Chemins de fer, Canaux de Navigation;7740;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;0960;;;00031;B031;;LE PLAN;8280;;T - Terre;8280;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;0960;;;00031;B031;;LE PLAN;8280;;T - Terre;8280;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AM;0141;;;00076;0135;BD;LEON BLUM;8320;;S - Sols;8320;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0348;;;00028;B028;;PIETRAMAL;8330;;L - Landes;8330;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0024;;;00036;B036;;LA ROULIERE;8350;;BT - Taillis simples;8350;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; A;0193;;;00167;B063;;LA GARDE;8375;;L - Landes;8375;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0377;;;00005;B005;;BELLE VUE;8400;;L - Landes;8400;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0377;;;00005;B005;;BELLE VUE;8400;;L - Landes;8400;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0121;;;00043;B043;;SARZEN;8420;;L - Landes;8420;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0743;;;00032;B032;;LA POINTE;8430;;T - Terre;8430;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; C;0940;;;00008;B008;;LA CROUSTASSE;8585;;T - Terre;8585;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0940;;;00008;B008;;LA CROUSTASSE;8585;;T - Terre;8585;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; A;0368;;;00005;B005;;BELLE VUE;8950;;L - Landes;8950;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;;AK;0393;;;00039;B039;;SAINT JEAN;9098;;AG - Terrains d’agrément;9098;P - Propriétaire;PBCCS8;220400014;3 - Département ;7220;DEPT;DEPARTEMENT DES ALPES DE HAUTE PROVENCE
+04;0;245;VOLX;; C;2863;;;00017;B017;;LA GRANDE PIECE;9146;;T - Terre;9146;P - Propriétaire;PBB28B;562041525;0 - Personnes morales non remarquables ;5599;SA;AUTOROUTE ESTEREL COTE AZUR PROVENCE ALP
+04;0;245;VOLX;; C;0280;;;00011;B011;;FONT DE LAGIER;9350;;VE - Vergers;9350;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0150;;;00034;B034;;LES PRES;9610;;VE - Vergers;9610;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;1757;;;00004;B004;;LES BEAUMETTES;9680;;L - Landes;9680;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;1757;;;00004;B004;;LES BEAUMETTES;9680;;L - Landes;9680;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;2822;;;00031;B031;;LE PLAN;9731;;L - Landes;9731;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;2822;;;00031;B031;;LE PLAN;9731;;L - Landes;9731;P - Propriétaire;PBB82V;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0939;;;00008;B008;;LA CROUSTASSE;9760;;T - Terre;9760;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0944;;;00008;B008;;LA CROUSTASSE;9760;;T - Terre;9760;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0659;;;00022;B022;;LA MAGDELEINE;9760;;E - Eaux;9760;P - Propriétaire;PBC44L;290402270;0 - Personnes morales non remarquables ;7321;ASS;ASA CANAL DE MANOSQUE
+04;0;245;VOLX;; C;0939;;;00008;B008;;LA CROUSTASSE;9760;;T - Terre;9760;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; C;0944;;;00008;B008;;LA CROUSTASSE;9760;;T - Terre;9760;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; C;2807;;;00031;B031;;LE PLAN;9798;;T - Terre;9798;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;2807;;;00031;B031;;LE PLAN;9798;;T - Terre;9798;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AH;0285;;;00014;B014;;LA GARE;9876;;T - Terre;9876;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0147;;;00034;B034;;LES PRES;9970;;T - Terre;9970;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; C;0123;;;00034;B034;;LES PRES;10247;;T - Terre;10247;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;; B;0408;;;00028;B028;;PIETRAMAL;10360;;E - Eaux;10360;P - Propriétaire;PBC44L;290402270;0 - Personnes morales non remarquables ;7321;ASS;ASA CANAL DE MANOSQUE
+04;0;245;VOLX;; B;0018;;;00024;B024;;MONTAIGU;10400;;BT - Taillis simples;10400;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0018;;;00024;B024;;MONTAIGU;10400;;BT - Taillis simples;10400;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0039;;;00036;B036;;LA ROULIERE;10425;;BF - Futaies Feuillues;10425;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;0946;;;00008;B008;;LA CROUSTASSE;10720;;T - Terre;10720;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0946;;;00008;B008;;LA CROUSTASSE;10720;;T - Terre;10720;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; A;0050;;;00019;B019;;LES HUBACS;10750;;L - Landes;10750;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0897;;;00008;B008;;LA CROUSTASSE;10760;;T - Terre;10760;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0897;;;00008;B008;;LA CROUSTASSE;10760;;T - Terre;10760;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; C;0945;;;00008;B008;;LA CROUSTASSE;10840;;T - Terre;10840;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;0945;;;00008;B008;;LA CROUSTASSE;10840;;T - Terre;10840;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0141;;;00043;B043;;SARZEN;10950;;B - Bois;10950;P - Propriétaire;PBB82V;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0356;;;00005;B005;;BELLE VUE;11040;;BT - Taillis simples;11040;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;2688;;;00031;B031;;LE PLAN;11132;;L - Landes;11132;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;2688;;;00031;B031;;LE PLAN;11132;;L - Landes;11132;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0041;;;00016;B016;;LE GRAND PRE;11190;;T - Terre;11190;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;2800;;;00032;B032;;LA POINTE;11318;;BT - Taillis simples;11318;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; C;1291;;;00033;B033;;PONT D AI;11320;;T - Terre;11320;P - Propriétaire;PBC38W;418959649;0 - Personnes morales non remarquables ;5710;SAS;LE CLAVEAU
+04;0;245;VOLX;; C;0276;;;00011;B011;;FONT DE LAGIER;11425;;VE - Vergers;11425;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0898;;;00008;B008;;LA CROUSTASSE;11440;;T - Terre;11440;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0898;;;00008;B008;;LA CROUSTASSE;11440;;T - Terre;11440;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; A;0032;;;00036;B036;;LA ROULIERE;11450;;L - Landes;11450;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AD;0061;;;00016;B016;;LE GRAND PRE;11470;;L - Landes;11470;P - Propriétaire;PBB82V;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0073;;;00040;B040;;SAINT MARTIN;11500;;L - Landes;11500;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0266;;;00007;B007;;LES COTES;11630;;L - Landes;11630;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0337;;;00023;B023;;LES MARGARIDETES;11790;;L - Landes;11790;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;0753;;;00017;B017;;LA GRANDE PIECE;12000;;S - Sols;12000;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; A;0001;;;00036;B036;;LA ROULIERE;12000;;BF - Futaies Feuillues;12000;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;0753;;;00017;B017;;LA GRANDE PIECE;12000;;S - Sols;12000;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;0045;;;00016;B016;;LE GRAND PRE;12040;;T - Terre;12040;P - Propriétaire;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;2452;;;00018;B018;;LE GRAVAS;12072;;VI - Vignes;12072;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;2452;;;00018;B018;;LE GRAVAS;12072;;VI - Vignes;12072;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0085;;;00040;B040;;SAINT MARTIN;12240;;BT - Taillis simples;12240;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;;AK;0392;;;00039;B039;;SAINT JEAN;12295;;AG - Terrains d’agrément;12295;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;2799;;;00032;B032;;LA POINTE;12512;;BT - Taillis simples;12512;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; A;0331;;;00023;B023;;LES MARGARIDETES;12550;;L - Landes;12550;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;1772;;;00016;B016;;LE GRAND PRE;12760;;S - Sols;12760;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;1772;;;00016;B016;;LE GRAND PRE;12760;;S - Sols;12760;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0686;;;00043;B043;;SARZEN;12930;;L - Landes;12930;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0335;;;00023;B023;;LES MARGARIDETES;13150;;L - Landes;13150;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0698;;;00038;B038;;SAINT CLEMENT;13200;;CH - Chemins de fer, Canaux de Navigation;13200;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;0698;;;00038;B038;;SAINT CLEMENT;13200;;CH - Chemins de fer, Canaux de Navigation;13200;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;0768;;;00017;B017;;LA GRANDE PIECE;13205;;T - Terre;13205;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0370;;;00005;B005;;BELLE VUE;13260;;L - Landes;13260;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;2871;;;00011;B011;;FONT DE LAGIER;13592;;CH - Chemins de fer, Canaux de Navigation;13592;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; C;2871;;;00011;B011;;FONT DE LAGIER;13592;;CH - Chemins de fer, Canaux de Navigation;13592;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+04;0;245;VOLX;; A;0027;;;00036;B036;;LA ROULIERE;13875;;L - Landes;13875;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;2453;;;00018;B018;;LE GRAVAS;14118;;T - Terre;14118;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; C;2045;;;00038;B038;;SAINT CLEMENT;14218;;S - Sols;14218;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2045;;;00038;B038;;SAINT CLEMENT;14218;;S - Sols;14218;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0380;;;00037;B037;;LA ROUVIERE;14230;;L - Landes;14230;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0380;;;00037;B037;;LA ROUVIERE;14230;;L - Landes;14230;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0081;;;00040;B040;;SAINT MARTIN;14800;;L - Landes;14800;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;2428;;;00017;B017;;LA GRANDE PIECE;15116;;T - Terre;15116;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2428;;;00017;B017;;LA GRANDE PIECE;15116;;T - Terre;15116;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;0807;;;00003;B003;;LA BASTIDE NEUVE;15235;;T - Terre;15235;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0330;;;00023;B023;;LES MARGARIDETES;15950;;L - Landes;15950;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;0149;;;00034;B034;;LES PRES;16265;;VE - Vergers;16265;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0332;;;00023;B023;;LES MARGARIDETES;16310;;L - Landes;16310;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0262;;;00034;B034;;LES PRES;16320;;T - Terre;16320;P - Propriétaire;PBB4HB;392186367;0 - Personnes morales non remarquables ;6538;GFR;LES ARRIGES
+04;0;245;VOLX;; A;0329;;;00023;B023;;LES MARGARIDETES;16700;;L - Landes;16700;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; A;0354;;;00005;B005;;BELLE VUE;16950;;BF - Futaies Feuillues;16950;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; A;0334;;;00023;B023;;LES MARGARIDETES;17200;;L - Landes;17200;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;0896;;;00008;B008;;LA CROUSTASSE;17300;;T - Terre;17300;B - Bailleur à construction ;PBBXQC;334501673;0 - Personnes morales non remarquables ;6534;GFA;GFA DU GRAND LOGIS
+04;0;245;VOLX;; C;0896;;;00008;B008;;LA CROUSTASSE;17300;;T - Terre;17300;R - Preneur à construction ;PBB7H2;335145694;0 - Personnes morales non remarquables ;9900;AUPM;LE GRAND LOGIS
+04;0;245;VOLX;; A;0342;;;00023;B023;;LES MARGARIDETES;17575;;L - Landes;17575;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0091;;;00043;B043;;SARZEN;17590;;L - Landes;17590;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0203;;;00167;B063;;LA GARDE;18000;;L - Landes;18000;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0744;;;00032;B032;;LA POINTE;18660;;T - Terre;18660;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; A;0093;;;00043;B043;;SARZEN;19120;;L - Landes;19120;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0080;;;00040;B040;;SAINT MARTIN;20000;;BT - Taillis simples;20000;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;2152;;;00029;B029;;LA PIOLANCHE;20060;;S - Sols;20060;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2152;;;00029;B029;;LA PIOLANCHE;20060;;S - Sols;20060;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0082;;;00040;B040;;SAINT MARTIN;20500;;BT - Taillis simples;20500;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;2612;;;00017;B017;;LA GRANDE PIECE;20885;;T - Terre;20885;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; B;0024;;;00045;B045;;LA TUILIERE;21840;;BT - Taillis simples;21840;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0041;;;00036;B036;;LA ROULIERE;22163;;BT - Taillis simples;22163;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;2862;;;00033;B033;;PONT D AI;22375;;S - Sols;22375;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2862;;;00033;B033;;PONT D AI;22375;;S - Sols;22375;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; B;0011;;;00024;B024;;MONTAIGU;22590;;BT - Taillis simples;22590;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0011;;;00024;B024;;MONTAIGU;22590;;BT - Taillis simples;22590;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0197;;;00167;B063;;LA GARDE;22800;;BT - Taillis simples;22800;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AL;0004;;;00013;B013;;FONTENOUILLES;22992;;BT - Taillis simples;22992;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0009;;;00036;B036;;LA ROULIERE;23500;;BF - Futaies Feuillues;23500;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; A;0020;;;00036;B036;;LA ROULIERE;23500;;BF - Futaies Feuillues;23500;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; B;0013;;;00024;B024;;MONTAIGU;23930;;BT - Taillis simples;23930;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0013;;;00024;B024;;MONTAIGU;23930;;BT - Taillis simples;23930;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0035;;;00036;B036;;LA ROULIERE;25250;;BF - Futaies Feuillues;25250;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; A;0088;;;00043;B043;;SARZEN;26110;;L - Landes;26110;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0893;;;00018;B018;;LE GRAVAS;26120;;T - Terre;26120;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;;AB;0030;;;00020;B020;;L ISCLON;26384;;CA - Carrières;26384;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0002;;;00024;B024;;MONTAIGU;26400;;BT - Taillis simples;26400;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0002;;;00024;B024;;MONTAIGU;26400;;BT - Taillis simples;26400;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0038;;;00036;B036;;LA ROULIERE;26475;;BT - Taillis simples;26475;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; C;2809;;;00031;B031;;LE PLAN;27342;;T - Terre;27342;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;2809;;;00031;B031;;LE PLAN;27342;;T - Terre;27342;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;;AK;0386;;;00109;0031;RUE;PIERRE MENDES FRANCE;28587;;AG - Terrains d’agrément;28587;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0717;;;00029;B029;;LA PIOLANCHE;28660;;S - Sols;28660;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;0717;;;00029;B029;;LA PIOLANCHE;28660;;S - Sols;28660;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0333;;;00023;B023;;LES MARGARIDETES;29125;;L - Landes;29125;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;2805;;;00031;B031;;LE PLAN;29412;;L - Landes;29412;E - Emphytéote ;PBDBLC;850622002;0 - Personnes morales non remarquables ;5710;SAS;VOLX LE PLAN
+04;0;245;VOLX;; C;2805;;;00031;B031;;LE PLAN;29412;;L - Landes;29412;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0367;;;00005;B005;;BELLE VUE;29700;;BT - Taillis simples;29700;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; A;0033;;;00036;B036;;LA ROULIERE;31350;;BT - Taillis simples;31350;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0019;;;00024;B024;;MONTAIGU;32400;;BT - Taillis simples;32400;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0019;;;00024;B024;;MONTAIGU;32400;;BT - Taillis simples;32400;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;;AH;0201;;;00014;B014;;LA GARE;32665;;CH - Chemins de fer, Canaux de Navigation;32665;P - Propriétaire;P9999Y;412280737;9 - Établissements publics ou organismes associés;5599;SA;SNCF RESEAU
+04;0;245;VOLX;; C;2146;;;00004;B004;;LES BEAUMETTES;32766;;S - Sols;32766;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2146;;;00004;B004;;LES BEAUMETTES;32766;;S - Sols;32766;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0089;;;00043;B043;;SARZEN;32830;;L - Landes;32830;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0003;;;00024;B024;;MONTAIGU;33500;;BT - Taillis simples;33500;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0003;;;00024;B024;;MONTAIGU;33500;;BT - Taillis simples;33500;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; C;0767;;;00017;B017;;LA GRANDE PIECE;37660;;T - Terre;37660;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0371;;;00005;B005;;BELLE VUE;39625;;BT - Taillis simples;39625;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; C;0725;;;00032;B032;;LA POINTE;39810;;T - Terre;39810;P - Propriétaire;PBBXFW;443913181;0 - Personnes morales non remarquables ;6534;GFA;SAINT CLEMENT
+04;0;245;VOLX;; A;0036;;;00036;B036;;LA ROULIERE;41300;;BT - Taillis simples;41300;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; A;0353;;;00005;B005;;BELLE VUE;42240;;L - Landes;42240;G - Gérant, mandataire, gestionnaire;P9MBFN;342404399;0 - Personnes morales non remarquables ;5710;SAS;T D F
+04;0;245;VOLX;; A;0353;;;00005;B005;;BELLE VUE;42240;;L - Landes;42240;P - Propriétaire;P998WD;342404399;0 - Personnes morales non remarquables ;5710;SAS;T D F
+04;0;245;VOLX;; B;0006;;;00024;B024;;MONTAIGU;42270;;BT - Taillis simples;42270;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0006;;;00024;B024;;MONTAIGU;42270;;BT - Taillis simples;42270;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; C;2811;;;00031;B031;;LE PLAN;42642;;S - Sols;42642;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2811;;;00031;B031;;LE PLAN;42642;;S - Sols;42642;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; A;0362;;;00005;B005;;BELLE VUE;43675;;BF - Futaies Feuillues;43675;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; A;0336;;;00023;B023;;LES MARGARIDETES;48200;;L - Landes;48200;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; A;0339;;;00023;B023;;LES MARGARIDETES;49075;;L - Landes;49075;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0388;;;00037;B037;;LA ROUVIERE;49490;;L - Landes;49490;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0388;;;00037;B037;;LA ROUVIERE;49490;;L - Landes;49490;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0047;;;00019;B019;;LES HUBACS;49950;;L - Landes;49950;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0144;;;00043;B043;;SARZEN;51650;;L - Landes;51650;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0007;;;00024;B024;;MONTAIGU;52650;;BT - Taillis simples;52650;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0007;;;00024;B024;;MONTAIGU;52650;;BT - Taillis simples;52650;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0015;;;00036;B036;;LA ROULIERE;54620;;L - Landes;54620;P - Propriétaire;PBBXKR;348747007;0 - Personnes morales non remarquables ;6540;SCI;DE ROUILLERE
+04;0;245;VOLX;; A;0381;;;00037;B037;;LA ROUVIERE;56630;;BT - Taillis simples;56630;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0381;;;00037;B037;;LA ROUVIERE;56630;;BT - Taillis simples;56630;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0279;;;00046;B046;;VAUGRANA;59130;;L - Landes;59130;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;1159;;;00024;B024;;MONTAIGU;61350;;BT - Taillis simples;61350;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;1159;;;00024;B024;;MONTAIGU;61350;;BT - Taillis simples;61350;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; B;0008;;;00024;B024;;MONTAIGU;61500;;BT - Taillis simples;61500;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0008;;;00024;B024;;MONTAIGU;61500;;BT - Taillis simples;61500;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; C;2860;;;00038;B038;;SAINT CLEMENT;70716;;S - Sols;70716;G - Gérant, mandataire, gestionnaire;PBCGW4;U15371811;0 - Personnes morales non remarquables ;9900;AUPM;EDF DTEAM CC PFA DFL
+04;0;245;VOLX;; C;2860;;;00038;B038;;SAINT CLEMENT;70716;;S - Sols;70716;P - Propriétaire;P998ZQ;552081317;0 - Personnes morales non remarquables ;5599;SA;ELECTRICITE DE FRANCE
+04;0;245;VOLX;; C;0801;;;00003;B003;;LA BASTIDE NEUVE;73750;;T - Terre;73750;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; B;0015;;;00024;B024;;MONTAIGU;76675;;BT - Taillis simples;76675;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0015;;;00024;B024;;MONTAIGU;76675;;BT - Taillis simples;76675;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; C;0985;;;00017;B017;;LA GRANDE PIECE;82715;;T - Terre;82715;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0384;;;00037;B037;;LA ROUVIERE;82840;;BT - Taillis simples;82840;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0384;;;00037;B037;;LA ROUVIERE;82840;;BT - Taillis simples;82840;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; C;2785;;;00003;B003;;LA BASTIDE NEUVE;85384;;T - Terre;85384;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0055;;;00040;B040;;SAINT MARTIN;86600;;BT - Taillis simples;86600;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0322;;;00046;B046;;VAUGRANA;87890;;L - Landes;87890;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0192;;;00167;B063;;LA GARDE;88700;;L - Landes;88700;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0014;;;00024;B024;;MONTAIGU;95300;;BT - Taillis simples;95300;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0014;;;00024;B024;;MONTAIGU;95300;;BT - Taillis simples;95300;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0326;;;00023;B023;;LES MARGARIDETES;96810;;L - Landes;96810;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0009;;;00024;B024;;MONTAIGU;100675;;BT - Taillis simples;100675;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0009;;;00024;B024;;MONTAIGU;100675;;BT - Taillis simples;100675;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; B;0010;;;00024;B024;;MONTAIGU;102910;;BT - Taillis simples;102910;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0010;;;00024;B024;;MONTAIGU;102910;;BT - Taillis simples;102910;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0355;;;00005;B005;;BELLE VUE;126400;;L - Landes;126400;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; C;0806;;;00003;B003;;LA BASTIDE NEUVE;130990;;T - Terre;130990;P - Propriétaire;PBB4MT;413819491;0 - Personnes morales non remarquables ;6534;GFA;GFA DES BASTIDES
+04;0;245;VOLX;; A;0046;;;00019;B019;;LES HUBACS;137450;;BT - Taillis simples;137450;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0048;;;00019;B019;;LES HUBACS;139230;;L - Landes;139230;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0382;;;00037;B037;;LA ROUVIERE;145250;;BT - Taillis simples;145250;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0382;;;00037;B037;;LA ROUVIERE;145250;;BT - Taillis simples;145250;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0385;;;00037;B037;;LA ROUVIERE;153470;;BT - Taillis simples;153470;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0385;;;00037;B037;;LA ROUVIERE;153470;;BT - Taillis simples;153470;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0358;;;00005;B005;;BELLE VUE;160000;;L - Landes;160000;P - Propriétaire;PBBXKK;443905864;0 - Personnes morales non remarquables ;6540;SCI;BELLEVUE
+04;0;245;VOLX;; B;0017;;;00024;B024;;MONTAIGU;167400;;BT - Taillis simples;167400;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0017;;;00024;B024;;MONTAIGU;167400;;BT - Taillis simples;167400;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; B;0001;;;00024;B024;;MONTAIGU;172320;;BT - Taillis simples;172320;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0001;;;00024;B024;;MONTAIGU;172320;;BT - Taillis simples;172320;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; B;1969;;;00028;B028;;PIETRAMAL;176135;;BT - Taillis simples;176135;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0043;;;00019;B019;;LES HUBACS;186420;;BT - Taillis simples;186420;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0044;;;00019;B019;;LES HUBACS;188375;;BT - Taillis simples;188375;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0045;;;00019;B019;;LES HUBACS;189925;;BT - Taillis simples;189925;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; A;0386;;;00037;B037;;LA ROUVIERE;202150;;L - Landes;202150;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; A;0386;;;00037;B037;;LA ROUVIERE;202150;;L - Landes;202150;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; A;0211;;;00167;B063;;LA GARDE;230250;;L - Landes;230250;P - Propriétaire;PBBVB7;210402459;4 - Commune;7210;COM;COMMUNE DE VOLX
+04;0;245;VOLX;; B;0012;;;00024;B024;;MONTAIGU;231250;;BT - Taillis simples;231250;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0012;;;00024;B024;;MONTAIGU;231250;;BT - Taillis simples;231250;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS
+04;0;245;VOLX;; B;0026;;;00045;B045;;LA TUILIERE;360140;;BT - Taillis simples;360140;P - Propriétaire;P99999;U23691569;1 - État ;7113;ETAT;ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT
+04;0;245;VOLX;; B;0026;;;00045;B045;;LA TUILIERE;360140;;BT - Taillis simples;360140;Z - Gestion d’un bien de l’État ;P995WV;662043116;9 - Établissements publics ou organismes associés;4110;EPIC;OFFICE NATIONAL DES FORETS

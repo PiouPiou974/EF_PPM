@@ -1,0 +1,133 @@
+Département;Code Direction;Code Commune;Nom de la commune;Préfixe;Section;N° plan;N° voirie;Indice de répétition;Code voie MAJIC;Code voie Rivoli;Nature voie;Nom voie;Contenance;SUF;Nature culture;Contenance.1;Code droit - par;N° Majic - par;N° SIREN - par;Groupe personne - par;Forme juridique - par;Forme juridique abrégée - par;Dénomination - par
+01;0;457;VONNAS;; A;3173;;;00021;B020;;LE BOURG;3825;;S - Sols;3825;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;1953;;;00021;B020;;LE BOURG;3835;;P - Prés;3835;P - Propriétaire;PBCDFH;478696701;0 - Personnes morales non remarquables ;6540;SCI;SCI GEAF
+01;0;457;VONNAS;; C;0771;0116;;00172;0130;RTE;DE NEUVILLE;3854;;S - Sols;3854;P - Propriétaire;PBFQN8;493666671;0 - Personnes morales non remarquables ;6540;SCI;ATOME
+01;0;457;VONNAS;; C;1223;;;00102;B101;;AU PLAT;3859;;P - Prés;3859;P - Propriétaire;PBFPXF;U32702102;0 - Personnes morales non remarquables ;6599;SC;LE COQ BLEU LIMITED
+01;0;457;VONNAS;; C;1451;0205;;00176;0160;RUE;DU VERNAY;3861;;S - Sols;3861;P - Propriétaire;PBDHWF;779306471;5 - Office HLM;4140;EPIC;DYNACITE OFFICE PUBLIC DE L'HABITAT DE L'AIN
+01;0;457;VONNAS;; A;3174;0141;;00158;0060;RUE;EUGENE DUBOIS;3965;;S - Sols;3965;P - Propriétaire;PBD8T9;435067855;0 - Personnes morales non remarquables ;9220;ASS;DE VILLENEUVE
+01;0;457;VONNAS;; A;3172;;;00002;B001;;LA GARE;3970;;S - Sols;3970;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;1503;5236;;00181;0009;IMP;DU CHAMP DE TIR;3988;;S - Sols;3988;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; B;0260;;;00056;B055;;AUX GASSES;4046;;P - Prés;4046;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; A;1488;0109;;00158;0060;RUE;EUGENE DUBOIS;4070;;P - Prés;4070;P - Propriétaire;PBD5GN;314925819;0 - Personnes morales non remarquables ;9220;ASS;ASSOCIATION DIOCESAINE DE BELLEY ARS
+01;0;457;VONNAS;; A;2693;;;00148;B147;;AUX VILLES;4091;;T - Terre;4091;P - Propriétaire;P9999Y;412280737;9 - Établissements publics ou organismes associés;5599;SA;SNCF RESEAU
+01;0;457;VONNAS;; A;0668;;;00100;B099;;AUX PLAINES;4165;;P - Prés;4165;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;3025;;;00141;B140;;VERDEMONT;4165;;AG - Terrains d’agrément;4165;P - Propriétaire;PBDR4D;478384688;0 - Personnes morales non remarquables ;6540;SCI;GEORGES BLANC IMMOBILIER VI
+01;0;457;VONNAS;; A;3127;;;00139;B138;;LA TUILERIE;4172;;S - Sols;4172;P - Propriétaire;PBFBX2;835183666;0 - Personnes morales non remarquables ;6540;SCI;SCI VONNAS INVESTISSEMENT
+01;0;457;VONNAS;; A;2295;;;00139;B138;;LA TUILERIE;4177;;S - Sols;4177;P - Propriétaire;PBB6XL;765200217;0 - Personnes morales non remarquables ;5710;SAS;HATTY HOLDING CARROSSERIE
+01;0;457;VONNAS;; A;2706;;;00025;B024;;AU CAILLAT;4287;;P - Prés;4287;P - Propriétaire;P9999Y;412280737;9 - Établissements publics ou organismes associés;5599;SA;SNCF RESEAU
+01;0;457;VONNAS;; B;0964;0011;;00285;1200;RUE;GEORGES LAFAY;4335;;S - Sols;4335;P - Propriétaire;PBDHWF;779306471;5 - Office HLM;4140;EPIC;DYNACITE OFFICE PUBLIC DE L'HABITAT DE L'AIN
+01;0;457;VONNAS;; B;0821;;;00063;B062;;LES GRANDS VARAYS;4353;;S - Sols;4353;P - Propriétaire;PBD8BL;448015693;0 - Personnes morales non remarquables ;6540;SCI;ALPHA DU PHENIX
+01;0;457;VONNAS;; C;0222;;;00111;B110;;PRE DES BASSES COURS;4360;;BP - Peupleraies;4360;P - Propriétaire;PBB5ZH;429431158;0 - Personnes morales non remarquables ;6536;GFO;DE LONGES
+01;0;457;VONNAS;; A;1076;;;00088;B087;;A NICOLE;4360;;P - Prés;4360;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; A;1455;;;00002;B001;;LA GARE;4385;;S - Sols;4385;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; C;0041;;;00095;B094;;LES PETITS VARAYS;4606;;T - Terre;4606;P - Propriétaire;PBFQN8;493666671;0 - Personnes morales non remarquables ;6540;SCI;ATOME
+01;0;457;VONNAS;; A;2523;;;00021;B020;;LE BOURG;4607;;S - Sols;4607;P - Propriétaire;PBFMNG;385315411;0 - Personnes morales non remarquables ;5710;SAS;PANELCO
+01;0;457;VONNAS;; B;0259;;;00056;B055;;AUX GASSES;4621;;P - Prés;4621;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; A;1899;;;00141;B140;;VERDEMONT;4658;;P - Prés;4658;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; B;0388;;;00033;B032;;CHASSIN;4700;;P - Prés;4700;P - Propriétaire;PBB27R;U21687417;0 - Personnes morales non remarquables ;9900;AUPM;CUMA COOP D UTILISATION DE MATERIEL AGRICOLE DE VONNAS OUEST
+01;0;457;VONNAS;; C;1267;;;00031;B030;;CHAMPAGNE;4715;;P - Prés;4715;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; C;1285;;;00031;B030;;CHAMPAGNE;4765;;S - Sols;4765;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; B;0310;;;00063;B062;;LES GRANDS VARAYS;4766;;T - Terre;4766;P - Propriétaire;PBFGKQ;200070555;4 - Commune;7346;CCOM;CC DE LA VEYLE
+01;0;457;VONNAS;; C;0510;;;00031;B030;;CHAMPAGNE;4790;;P - Prés;4790;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; C;0491;;;00031;B030;;CHAMPAGNE;4940;;E - Eaux;4940;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;3133;5882;;00209;0158;RUE;DE VERDEMONT;5051;;S - Sols;5051;P - Propriétaire;PBB8NJ;240100669;9 - Établissements publics ou organismes associés;7346;CCOM;COMMUNAUTE COMMUNES BORDS DE VEYLE
+01;0;457;VONNAS;; A;1462;;;00002;B001;;LA GARE;5060;;P - Prés;5060;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;3371;;;00139;B138;;LA TUILERIE;5061;;S - Sols;5061;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;3469;;;00139;B138;;LA TUILERIE;5094;;S - Sols;5094;P - Propriétaire;PBFBX2;835183666;0 - Personnes morales non remarquables ;6540;SCI;SCI VONNAS INVESTISSEMENT
+01;0;457;VONNAS;; C;0711;;;00009;B008;;AU BLETONNAY;5105;;T - Terre;5105;P - Propriétaire;PBDR39;493332332;0 - Personnes morales non remarquables ;6533;GAEC;GAEC JANICHON
+01;0;457;VONNAS;; B;0307;;;00063;B062;;LES GRANDS VARAYS;5146;;T - Terre;5146;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; A;3798;;;00043;B042;;AU CRUET;5149;;P - Prés;5149;P - Propriétaire;PBCDKG;433696127;0 - Personnes morales non remarquables ;5499;SARL;ARVE LOTISSEMENTS
+01;0;457;VONNAS;; A;3799;;;00043;B042;;AU CRUET;5215;;T - Terre;5215;P - Propriétaire;PBCDKG;433696127;0 - Personnes morales non remarquables ;5499;SARL;ARVE LOTISSEMENTS
+01;0;457;VONNAS;; A;0027;;;00108;B107;;AU POURCET;5240;;CH - Chemins de fer, Canaux de Navigation;5240;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0027;;;00108;B107;;AU POURCET;5240;;CH - Chemins de fer, Canaux de Navigation;5240;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; B;0025;;;00071;B070;;LAVAL;5297;;T - Terre;5297;P - Propriétaire;PBFGKQ;200070555;4 - Commune;7346;CCOM;CC DE LA VEYLE
+01;0;457;VONNAS;; A;0570;;;00096;B095;;PEYSSOLE;5350;;S - Sols;5350;P - Propriétaire;PBB664;381143841;0 - Personnes morales non remarquables ;6540;SCI;DU FIEF D EPEYSSOLES
+01;0;457;VONNAS;; C;0007;;;00095;B094;;LES PETITS VARAYS;5401;;S - Sols;5401;P - Propriétaire;PBFQN8;493666671;0 - Personnes morales non remarquables ;6540;SCI;ATOME
+01;0;457;VONNAS;; B;1015;;;00087;B086;;NAMARY;5414;;T - Terre;5414;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; B;0306;;;00063;B062;;LES GRANDS VARAYS;5430;;P - Prés;5430;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; B;1011;;;00087;B086;;NAMARY;5455;;T - Terre;5455;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; B;0263;;;00056;B055;;AUX GASSES;5506;;P - Prés;5506;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; B;0303;;;00063;B062;;LES GRANDS VARAYS;5530;;T - Terre;5530;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; B;0304;;;00063;B062;;LES GRANDS VARAYS;5550;;T - Terre;5550;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; A;2710;;;00025;B024;;AU CAILLAT;5566;;P - Prés;5566;P - Propriétaire;P9999Y;412280737;9 - Établissements publics ou organismes associés;5599;SA;SNCF RESEAU
+01;0;457;VONNAS;; B;0305;;;00063;B062;;LES GRANDS VARAYS;5600;;P - Prés;5600;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; C;1452;;;00052;B051;;FELICIAT;5668;;S - Sols;5668;P - Propriétaire;PBCCGH;448280438;0 - Personnes morales non remarquables ;6540;SCI;BELLISA
+01;0;457;VONNAS;; C;1654;;;00077;B076;;LES MALADIERES;5699;;S - Sols;5699;P - Propriétaire;PBDQTH;756200275;5 - Office HLM;5599;SA;LOGIDIA  SOCIETE ANONYME D'HABITATIONS A LOYER MODERE
+01;0;457;VONNAS;; A;0071;;;00076;B075;;LUPONNAS;5760;;P - Prés;5760;P - Propriétaire;PBD4KV;441040490;0 - Personnes morales non remarquables ;5499;SARL;ENTREPRISE RICHARD
+01;0;457;VONNAS;; A;0667;;;00100;B099;;AUX PLAINES;5835;;T - Terre;5835;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; C;1268;;;00031;B030;;CHAMPAGNE;5986;;P - Prés;5986;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; B;0387;;;00033;B032;;CHASSIN;6005;;T - Terre;6005;P - Propriétaire;PBB27R;U21687417;0 - Personnes morales non remarquables ;9900;AUPM;CUMA COOP D UTILISATION DE MATERIEL AGRICOLE DE VONNAS OUEST
+01;0;457;VONNAS;; A;2273;;;00066;B065;;LES HAIES;6060;;AB - Terrains à bâtir;6060;P - Propriétaire;PBB72R;400210530;0 - Personnes morales non remarquables ;6540;SCI;DES BELOUSES
+01;0;457;VONNAS;; A;0847;;;00145;B144;;AUX VIARDS;6100;;P - Prés;6100;P - Propriétaire;PBDJVC;250102431;0 - Personnes morales non remarquables ;7354;SYMC;SYNDICAT MIXTE VEYLE VIVANTE
+01;0;457;VONNAS;; A;1101;;;00131;B130;;SAINT ELMONT;6130;;T - Terre;6130;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; C;1257;;;00052;B051;;FELICIAT;6297;;S - Sols;6297;P - Propriétaire;PBB7R3;381219534;0 - Personnes morales non remarquables ;6540;SCI;SCI MAEVA
+01;0;457;VONNAS;; A;1078;;;00088;B087;;A NICOLE;6310;;P - Prés;6310;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; A;1370;;;00050;B049;;A L EQUELET;6332;;CH - Chemins de fer, Canaux de Navigation;6332;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;1370;;;00050;B049;;A L EQUELET;6332;;CH - Chemins de fer, Canaux de Navigation;6332;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; C;0949;;;00067;B066;;HERBAPIERRE;6369;;P - Prés;6369;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; B;0816;;;00063;B062;;LES GRANDS VARAYS;6439;;S - Sols;6439;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; C;1239;;;00027;B026;;AU CATIN;6487;;S - Sols;6487;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;2355;;;00043;B042;;AU CRUET;6497;;S - Sols;6497;P - Propriétaire;P9MBBD;444608442;0 - Personnes morales non remarquables ;5699;SA;ENEDIS
+01;0;457;VONNAS;; A;2256;;;00080;B079;;AU MARIOT;6537;;T - Terre;6537;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; A;0816;;;00007;B006;;BEZEMEME;6539;;T - Terre;6539;G - Gérant, mandataire, gestionnaire;PBCDD5;U15274114;0 - Personnes morales non remarquables ;9900;AUPM;ATMP DE L'AIN ANTENNE DE TREVOUX
+01;0;457;VONNAS;; A;3716;;;00139;B138;;LA TUILERIE;6597;;S - Sols;6597;P - Propriétaire;PBFGMN;880879010;0 - Personnes morales non remarquables ;6540;SCI;ARCHIMEDE IMMO
+01;0;457;VONNAS;; B;0324;;;00063;B062;;LES GRANDS VARAYS;6597;;T - Terre;6597;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;2694;;;00148;B147;;AUX VILLES;6619;;T - Terre;6619;P - Propriétaire;P9999Y;412280737;9 - Établissements publics ou organismes associés;5599;SA;SNCF RESEAU
+01;0;457;VONNAS;; C;1289;;;00031;B030;;CHAMPAGNE;6784;;P - Prés;6784;P - Propriétaire;PBB545;349638353;0 - Personnes morales non remarquables ;6540;SCI;DE CHAMPAGNE
+01;0;457;VONNAS;; B;0268;;;00056;B055;;AUX GASSES;6851;;P - Prés;6851;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; C;0516;;;00031;B030;;CHAMPAGNE;6934;;S - Sols;6934;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; C;1258;;;00052;B051;;FELICIAT;7083;;P - Prés;7083;P - Propriétaire;PBD68Q;381455427;0 - Personnes morales non remarquables ;5710;SAS;CENTRE LAGO
+01;0;457;VONNAS;; B;0026;;;00071;B070;;LAVAL;7090;;P - Prés;7090;P - Propriétaire;PBFSFP;931693147;0 - Personnes morales non remarquables ;6540;SCI;LE DOMAINE D'AZELIE
+01;0;457;VONNAS;; A;1093;;;00131;B130;;SAINT ELMONT;7270;;P - Prés;7270;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; A;0343;0240;;00174;0150;AV;DES SPORTS;7350;;S - Sols;7350;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; C;1508;;;00052;B051;;FELICIAT;7442;;AB - Terrains à bâtir;7442;P - Propriétaire;PBB7R3;381219534;0 - Personnes morales non remarquables ;6540;SCI;SCI MAEVA
+01;0;457;VONNAS;; B;0262;;;00056;B055;;AUX GASSES;7450;;P - Prés;7450;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; A;0100;;;00076;B075;;LUPONNAS;7520;;CH - Chemins de fer, Canaux de Navigation;7520;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0100;;;00076;B075;;LUPONNAS;7520;;CH - Chemins de fer, Canaux de Navigation;7520;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0342;;;00139;B138;;LA TUILERIE;7600;;P - Prés;7600;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; B;0302;;;00063;B062;;LES GRANDS VARAYS;7637;;T - Terre;7637;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; C;0496;;;00031;B030;;CHAMPAGNE;7858;;L - Landes;7858;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;0070;;;00076;B075;;LUPONNAS;8130;;AG - Terrains d’agrément;8130;P - Propriétaire;PBD4KV;441040490;0 - Personnes morales non remarquables ;5499;SARL;ENTREPRISE RICHARD
+01;0;457;VONNAS;; C;0212;;;00062;B061;;GRANDS PRES;8180;;BP - Peupleraies;8180;P - Propriétaire;PBB5ZH;429431158;0 - Personnes morales non remarquables ;6536;GFO;DE LONGES
+01;0;457;VONNAS;; A;3009;0184;;00216;0039;RUE;DU 19 MARS 1962;8495;;S - Sols;8495;P - Propriétaire;PBFG9J;885308916;0 - Personnes morales non remarquables ;6540;SCI;SCI MARKETS
+01;0;457;VONNAS;; A;0755;;;00044;B043;;CURVILLE;8660;;P - Prés;8660;G - Gérant, mandataire, gestionnaire;PBCDD5;U15274114;0 - Personnes morales non remarquables ;9900;AUPM;ATMP DE L'AIN ANTENNE DE TREVOUX
+01;0;457;VONNAS;; C;0547;;;00031;B030;;CHAMPAGNE;8760;;T - Terre;8760;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; C;1204;;;00067;B066;;HERBAPIERRE;8818;;P - Prés;8818;P - Propriétaire;PBB6KR;759200934;0 - Personnes morales non remarquables ;5710;SAS;SOREAL
+01;0;457;VONNAS;; C;0173;;;00052;B051;;FELICIAT;9410;;P - Prés;9410;P - Propriétaire;PBB7R3;381219534;0 - Personnes morales non remarquables ;6540;SCI;SCI MAEVA
+01;0;457;VONNAS;; A;1514;;;00021;B020;;LE BOURG;9477;;S - Sols;9477;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;3467;;;00096;B095;;PEYSSOLE;9672;;BS - Taillis sous Futaies;9672;P - Propriétaire;PBB664;381143841;0 - Personnes morales non remarquables ;6540;SCI;DU FIEF D EPEYSSOLES
+01;0;457;VONNAS;; A;2817;;;00148;B147;;AUX VILLES;9899;;CH - Chemins de fer, Canaux de Navigation;9899;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;2817;;;00148;B147;;AUX VILLES;9899;;CH - Chemins de fer, Canaux de Navigation;9899;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; C;1524;;;00077;B076;;LES MALADIERES;9950;;S - Sols;9950;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;0659;;;00100;B099;;AUX PLAINES;10440;;P - Prés;10440;P - Propriétaire;PBFNDW;921193298;0 - Personnes morales non remarquables ;6540;SCI;LA GRANGE COTTON
+01;0;457;VONNAS;; C;1509;;;00052;B051;;FELICIAT;10590;;T - Terre;10590;P - Propriétaire;PBB7R3;381219534;0 - Personnes morales non remarquables ;6540;SCI;SCI MAEVA
+01;0;457;VONNAS;; B;0269;;;00056;B055;;AUX GASSES;10600;;P - Prés;10600;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; A;0775;;;00053;B052;;AU FONDRY;10810;;CH - Chemins de fer, Canaux de Navigation;10810;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0775;;;00053;B052;;AU FONDRY;10810;;CH - Chemins de fer, Canaux de Navigation;10810;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; B;0755;;;00063;B062;;LES GRANDS VARAYS;11004;;T - Terre;11004;P - Propriétaire;PBCBMV;421525585;0 - Personnes morales non remarquables ;5710;SAS;JARDINS ET PLANTES DE VONNAS
+01;0;457;VONNAS;; B;0301;;;00063;B062;;LES GRANDS VARAYS;11421;;T - Terre;11421;P - Propriétaire;PBD73X;493349773;9 - Établissements publics ou organismes associés;4140;EPIC;ETABLISSEMENT PUBLIC FONCIER DE L'AIN
+01;0;457;VONNAS;; C;1240;0097;;00293;0190;ALL;DES ENFANTS DE COLO IZIEU;11522;;S - Sols;11522;P - Propriétaire;PBB8NJ;240100669;9 - Établissements publics ou organismes associés;7346;CCOM;COMMUNAUTE COMMUNES BORDS DE VEYLE
+01;0;457;VONNAS;; A;2819;;;00025;B024;;AU CAILLAT;11725;;CH - Chemins de fer, Canaux de Navigation;11725;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;2819;;;00025;B024;;AU CAILLAT;11725;;CH - Chemins de fer, Canaux de Navigation;11725;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; B;0637;;;00033;B032;;CHASSIN;12324;;P - Prés;12324;P - Propriétaire;PBB27R;U21687417;0 - Personnes morales non remarquables ;9900;AUPM;CUMA COOP D UTILISATION DE MATERIEL AGRICOLE DE VONNAS OUEST
+01;0;457;VONNAS;; B;0371;;;00058;B057;;GRAND TAILLIS;12630;;P - Prés;12630;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; B;0735;;;00033;B032;;CHASSIN;12777;;T - Terre;12777;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; A;2899;;;00141;B140;;VERDEMONT;12914;;S - Sols;12914;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;0578;;;00096;B095;;PEYSSOLE;12940;;P - Prés;12940;P - Propriétaire;PBB664;381143841;0 - Personnes morales non remarquables ;6540;SCI;DU FIEF D EPEYSSOLES
+01;0;457;VONNAS;; A;2370;;;00139;B138;;LA TUILERIE;13140;;P - Prés;13140;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;1305;;;00069;B068;;AUX ILLES;13945;;CH - Chemins de fer, Canaux de Navigation;13945;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;1305;;;00069;B068;;AUX ILLES;13945;;CH - Chemins de fer, Canaux de Navigation;13945;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0923;;;00007;B006;;BEZEMEME;14300;;CH - Chemins de fer, Canaux de Navigation;14300;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0923;;;00007;B006;;BEZEMEME;14300;;CH - Chemins de fer, Canaux de Navigation;14300;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;1300;;;00007;B006;;BEZEMEME;14706;;CH - Chemins de fer, Canaux de Navigation;14706;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;1300;;;00007;B006;;BEZEMEME;14706;;CH - Chemins de fer, Canaux de Navigation;14706;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; C;0223;;;00111;B110;;PRE DES BASSES COURS;15920;;BP - Peupleraies;15920;P - Propriétaire;PBB5ZH;429431158;0 - Personnes morales non remarquables ;6536;GFO;DE LONGES
+01;0;457;VONNAS;; A;3134;;;00141;B140;;VERDEMONT;16063;;S - Sols;16063;P - Propriétaire;PBB2ZH;210104576;4 - Commune;7210;COM;COMMUNE DE VONNAS
+01;0;457;VONNAS;; A;0760;;;00044;B043;;CURVILLE;16500;;CH - Chemins de fer, Canaux de Navigation;16500;G - Gérant, mandataire, gestionnaire;P9MBFT;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; A;0760;;;00044;B043;;CURVILLE;16500;;CH - Chemins de fer, Canaux de Navigation;16500;P - Propriétaire;P9999Z;552049447;9 - Établissements publics ou organismes associés;5599;SA;SOCIETE NATIONALE SNCF
+01;0;457;VONNAS;; C;0220;;;00111;B110;;PRE DES BASSES COURS;20530;;BP - Peupleraies;20530;P - Propriétaire;PBB5ZH;429431158;0 - Personnes morales non remarquables ;6536;GFO;DE LONGES
+01;0;457;VONNAS;; A;0571;1025;;00199;0117;RTE;DE MEZERIAT;21070;;AG - Terrains d’agrément;21070;P - Propriétaire;PBB664;381143841;0 - Personnes morales non remarquables ;6540;SCI;DU FIEF D EPEYSSOLES
+01;0;457;VONNAS;; A;1081;;;00005;B004;;AUX BENES;22260;;T - Terre;22260;P - Propriétaire;PBFHT3;890911324;0 - Personnes morales non remarquables ;6534;GFA;GFA DES FEUILLES
+01;0;457;VONNAS;; B;0370;;;00058;B057;;GRAND TAILLIS;30230;;T - Terre;30230;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; B;0645;;;00033;B032;;CHASSIN;36304;;P - Prés;36304;P - Propriétaire;PBFG49;779302256;0 - Personnes morales non remarquables ;6533;GAEC;GAEC LES PRELIONS
+01;0;457;VONNAS;; A;3465;;;00096;B095;;PEYSSOLE;42643;;P - Prés;42643;P - Propriétaire;PBB664;381143841;0 - Personnes morales non remarquables ;6540;SCI;DU FIEF D EPEYSSOLES
