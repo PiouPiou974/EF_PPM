@@ -67,7 +67,7 @@ def supprimer_parcelle(id_parcelle: str) -> None:
 
 st.title("Recherche par parcelles")
 tab_parcelle, tab_fichier, tab_liste_parcelles, tab_resultats = st.tabs([
-    'Ajouter une parcelle', 'Importer un fichier', f'Parcelles [{len(st.session_state['parcelles'])}]', 'Résultats'
+    'Ajouter une parcelle', 'Importer un fichier', f'Parcelles [{len(st.session_state["parcelles"])}]', 'Résultats'
 ])
 
 
