@@ -177,6 +177,7 @@ with tab_liste_parcelles:
 
     if bouton_vider_liste:
         st.session_state['parcelles'] = []
+        st.rerun()
 
     for id_parcelle in st.session_state['parcelles']:
         c_bout, c_parc = st.columns([1, 20], vertical_alignment='center', gap=None)
