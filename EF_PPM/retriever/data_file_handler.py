@@ -67,7 +67,8 @@ class PPMDataFileHandler:
             RawField.ADRESSE_NOM_VOIE.value
         ]].agg(''.join, axis=1).apply(remove_multiple_spaces)
 
-        self.df[Field.CLASSEMENT_PPT.value] = self.df[RawField.GROUPE_CODE.value].apply(lambda x: group_code.get(x))
+        self.df[Field.CLASSEMENT_PPT.value] = self.df[RawField.GROUPE_CODE.value]
+        # DEPRECATED : self.df[RawField.GROUPE_CODE.value].apply(lambda x: group_code.get(str(x)))
 
         rename_mapping = {
             RawField.COMMUNE.value: Field.COMMUNE.value,

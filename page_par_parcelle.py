@@ -16,25 +16,43 @@ def affiche_tableau(ppm:PPM) -> None:
     if group_by_suf:
         ppm_to_show = ppm_to_show.merged_suf
 
-    help_rights = "Grouper les informations des ayants-droits pour avoir une seule ligne par parcelle."
-    group_by_rights = st.toggle("Grouper les droits", help=help_rights, value=False)
-    if group_by_rights:
+    help_pm = "Grouper les personnes morales sur une seule ligne."
+    group_by_pm = st.toggle("Grouper les PM", help=help_pm, value=False)
+    if group_by_pm:
         ppm_to_show = ppm_to_show.merged_rights
 
     help_essential = "Ne conserver que les informations essentielles."
-    show_only_essential = st.toggle("Fichier simplifié", help=help_essential, value=True)
+    show_only_essential = st.toggle("Simplifier", help=help_essential, value=True)
     if show_only_essential:
         ppm_to_show = ppm_to_show.essential
 
     ppm_to_show.sort_by_idu()
-    st.write(ppm_to_show.table)
 
-    st.download_button(
+    styler = ppm_to_show.table.style.hide().bar(
+        subset=['contenance'], align="mid", color="#82C46C"
+    ).set_table_styles([
+          {"selector": "th", "props": [("font-size", "11px")]},           # en-têtes
+          {"selector": "td", "props": [("font-size", "11px")]},           # cellules
+      ])
+
+    with st.container(height=300):
+        st.write(styler.to_html(), unsafe_allow_html=True)
+
+    c1, c2 = st.columns(2)
+    c2.caption(f"{len(ppm_to_show.table)} lignes", text_alignment='right')
+    downloaded = c1.download_button(
         "Télécharger la table",
         data=ppm_to_show.excel_file_bytes,
         mime="application/octet-stream",
-        file_name="Énergie_Foncière_parcellaire_PM.xlsx"
+        file_name="Énergie_Foncière_parcellaire_PM.xlsx",
     )
+
+    if downloaded:
+        st.success("Téléchargement terminé. Énergie Foncière met cet outil gratuit à disposition pour simplifier "
+                   "l’accès à la donnée foncière. si ça vous a aidé, laissez-nous un "
+                   "[avis Google](https://g.page/r/CXS-zJLN66DrEAE/review) "
+                   "ou [discutons ensemble](https://www.linkedin.com/in/antoine-petit-ef/) !")
+
 
 
 help_idu = ("L'identifiant unique (IDU) est la référence à une parcelle, en 14 caractères. Il est composé :  \n"

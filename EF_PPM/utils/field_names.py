@@ -4,22 +4,22 @@ from enum import Enum
 class Field(Enum):
     # PARCELLE
     IDU = "idu"
-    COMMUNE = "nom_commune"
+    COMMUNE = "commune"
     ADRESSE = "adresse"
     SUF = "SUF"
-    NAT_CAD = "nature_cadastrale"
+    NAT_CAD = "nature"
     CONTENANCE = "contenance"
     CONTENANCE_SUF = "contenance_suf"
 
     # DROITS
-    CODE_DROIT = "code_droit"
-    LBL_DROIT = "droit"
-    MAJIC = "id_MAJIC"
+    CODE_DROIT = "droit"
+    LBL_DROIT = "droit_long"
+    MAJIC = "MAJIC"
     SIREN = "SIREN"
-    CLASSEMENT_PPT = "classement_proprietaire"
-    FORME_JURIDIQUE_ABR = "forme_juridique_abregee"
-    FORME_JURIDIQUE = "forme_juridique"
-    DENOMINATION = "denomination"
+    CLASSEMENT_PPT = "groupe"
+    FORME_JURIDIQUE_ABR = "forme"
+    FORME_JURIDIQUE = "forme_longue"
+    DENOMINATION = "dénomination"
 
 def plot_fields() -> list[Enum]:
     return [

@@ -27,17 +27,27 @@ L’application Streamlit, accessible via un navigateur, permet d’interroger r
 sans avoir à manipuler les CSV bruts. 
 Deux modes de recherche sont disponibles :
 
-- **Recherche par parcelles** : saisissez une ou plusieurs références cadastrales (format parcelle), 
+- **Recherche par parcelles** : saisissez une ou plusieurs références cadastrales, 
 ajoutez-les à la liste, puis lancez la recherche.
 
 - **Recherche par SIREN** : saisissez un ou plusieurs numéros SIREN, en limitant la recherche à un ou 
 plusieurs départements. Cette restriction est fortement recommandée pour éviter de parcourir 
 l’intégralité de la base, ce qui peut être long.
 
-Dans les deux cas, vous pouvez constituer une liste de références (parcelles ou SIREN) avant 
-d’exécuter la requête. Une fois les résultats affichés, vous pouvez télécharger les fichiers 
-au format “simplifié” (données regroupées et plus lisibles) ou au format “entier” 
-(données détaillées telles que présentes dans la source).
+- **Recherche par nom** : saisissez du texte, choisissez le mode de recherche complète ou 
+incomplète. Là aussi, pour les mêmes raisons, il est recommandé de limiter la recherche à 
+un ou plusieurs départements.
+
+Dans les trois cas, vous pouvez ensuite exécuter la requête sur la liste de références que vous avez constituée. 
+Une fois les résultats affichés, vous avez plusieurs choix de format avant de pouvoir télécharger le fichier : 
+- **Grouper les SUF** : regrouper ou non les subdivisions fiscales. Ces dernières sont des sous-unités des parcelles, 
+et sont souvent peu pertinentes pour regarder la propriété.
+Si cette option est active, les champs correspondant aux SUF seront 
+concaténés (ex: "A|B"), sinon, ils seront sur plusieurs lignes.
+- **Grouper les PM** : regrouper ou non les personnes morales en une seule ligne. 
+Si cette option est active, les champs correspondant aux personnes morales seront 
+concaténés (ex: "ETAT|ONF"), sinon, ils seront sur plusieurs lignes.
+- **Simplifier** : permet de s'affranchir de plusieurs informations secondaires présentes dans la source.
 
 
 ## Module Python
