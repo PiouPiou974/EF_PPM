@@ -7,7 +7,7 @@ from pandas.core.indexes.api import union_indexes
 
 from EF_PPM.retriever.data_folder_handler import PPMDataFolderHandler
 from EF_PPM.retriever.data_file_handler import PPMDataFileHandler
-from EF_PPM.utils.dept_code import get_dept_code_from_reference_code, ALL_DEPARTMENTS
+from EF_PPM.utils.dept_code import get_dept_code_from_reference_code, DEPARTEMENTS_CODES
 from EF_PPM.utils.field_names import Field, plot_fields, right_fields
 
 
@@ -107,7 +107,7 @@ class PPM:
         if limit_to_department:
             department_to_search = limit_to_department
         else:
-            department_to_search = ALL_DEPARTMENTS
+            department_to_search = DEPARTEMENTS_CODES
 
         for dept in department_to_search:
             files = self.ppm_data_folder.departmental_files(dept)
@@ -141,7 +141,7 @@ class PPM:
         if limit_to_department:
             department_to_search = limit_to_department
         else:
-            department_to_search = ALL_DEPARTMENTS
+            department_to_search = DEPARTEMENTS_CODES
 
         depts = [dept for dept in unique_depts if dept in department_to_search]
 
@@ -161,7 +161,7 @@ class PPM:
         if limit_to_department:
             department_to_search = limit_to_department
         else:
-            department_to_search = ALL_DEPARTMENTS
+            department_to_search = DEPARTEMENTS_CODES
 
         for dept in department_to_search:
             files = self.ppm_data_folder.departmental_files(dept)
